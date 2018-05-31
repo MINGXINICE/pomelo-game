@@ -1,0 +1,5 @@
+pomelo start
+node app.js host=127.0.0.1 serverType=gate clientPort=3014 frontend=true id=gate-server-1
+node app.js host=127.0.0.1 serverType=connector clientPort=4050 port=3050 frontend=true id=connector-server-1
+node app.js host=127.0.0.1 serverType=chat port=6050  id=chat-server-1
+node app.js host=127.0.0.1 serverType=game port=6051  id=game-server-1

@@ -1,0 +1,48 @@
+
+result_dog.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose_1
+  rotate: false
+  xy: 2, 590
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+lose_2
+  rotate: false
+  xy: 356, 710
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+lose_3
+  rotate: false
+  xy: 678, 831
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+win_1
+  rotate: false
+  xy: 2, 236
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+win_2
+  rotate: false
+  xy: 2, 2
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+win_3
+  rotate: false
+  xy: 356, 596
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1

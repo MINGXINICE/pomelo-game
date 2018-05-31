@@ -1,0 +1,55 @@
+
+dog_little.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 54
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 8
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 193, 64
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 95, 62
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 291, 64
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+head_4
+  rotate: false
+  xy: 389, 64
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+head_5
+  rotate: false
+  xy: 95, 2
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1

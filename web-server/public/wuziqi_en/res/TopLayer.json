@@ -1,0 +1,905 @@
+{
+  "ID": "478ab796-3320-48ed-a294-269e60ef64ff",
+  "Version": "2.3.4",
+  "Name": "TopLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 67,
+        "Speed": 1.0,
+        "ActivedAnimationName": "showMenu",
+        "Timelines": [
+          {
+            "ActionTag": 1997099497,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 50,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 67,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 30,
+          "Name": "showMenu",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 50,
+          "EndIndex": 80,
+          "Name": "hideMenu",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 9,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "backdrop_3.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 375.0,
+              "Y": 1336.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2545
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "BottomMargin": 996.0,
+            "Tag": 10,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "chess_9.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.975,
+                  "Y": 250.0009
+                },
+                "Scale": {
+                  "ScaleX": 0.802,
+                  "ScaleY": 0.802
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5013,
+                  "Y": 0.7353
+                },
+                "PreSize": {
+                  "X": 0.02,
+                  "Y": 0.0441
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 368.475,
+                "RightMargin": 366.525,
+                "TopMargin": 82.4991,
+                "BottomMargin": 242.5009,
+                "Tag": 19,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_4.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_4.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_3.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 139,
+                    "Scale9Height": 83,
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.1058,
+                      "Y": -96.5983
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6737,
+                      "Y": -6.4399
+                    },
+                    "PreSize": {
+                      "X": 11.2667,
+                      "Y": 7.0
+                    },
+                    "LeftMargin": -74.3942,
+                    "RightMargin": -79.6058,
+                    "TopMargin": 59.0983,
+                    "BottomMargin": -149.0983,
+                    "Tag": 2,
+                    "ActionTag": -1154918172,
+                    "Size": {
+                      "X": 169.0,
+                      "Y": 105.0
+                    },
+                    "Name": "draw",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_2.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_2.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_1.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 103,
+                    "Scale9Height": 146,
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 107.7422,
+                      "Y": -44.3478
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 7.1828,
+                      "Y": -2.9565
+                    },
+                    "PreSize": {
+                      "X": 8.8667,
+                      "Y": 11.2
+                    },
+                    "LeftMargin": 41.2422,
+                    "RightMargin": -159.2422,
+                    "TopMargin": -24.6522,
+                    "BottomMargin": -128.3478,
+                    "Tag": 1,
+                    "ActionTag": 1402260148,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 168.0
+                    },
+                    "Name": "giveup",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_6.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_6.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "button_5.png",
+                      "Plist": "res/goBang.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 103,
+                    "Scale9Height": 149,
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -95.6031,
+                      "Y": -47.261
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -6.3735,
+                      "Y": -3.1507
+                    },
+                    "PreSize": {
+                      "X": 8.8667,
+                      "Y": 11.4
+                    },
+                    "LeftMargin": -162.1031,
+                    "RightMargin": 44.1031,
+                    "TopMargin": -23.239,
+                    "BottomMargin": -132.761,
+                    "Tag": 3,
+                    "ActionTag": -1006278464,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 171.0
+                    },
+                    "Name": "retract",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1997099497,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 15.0
+                },
+                "Name": "buttonBg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_4_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_4_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_4.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 125,
+                "Scale9Height": 134,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.0,
+                  "Y": 263.7403
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7757
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.4353
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 300.0,
+                "RightMargin": 300.0,
+                "TopMargin": 2.2597,
+                "BottomMargin": 189.7403,
+                "Tag": 404,
+                "ActionTag": 993142104,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 148.0
+                },
+                "Name": "menuBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chess_6.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 227.9612,
+                  "Y": 128.4665
+                },
+                "Scale": {
+                  "ScaleX": 1.7,
+                  "ScaleY": 1.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2506,
+                  "Y": 0.2249
+                },
+                "PreSize": {
+                  "X": 0.0707,
+                  "Y": 0.1559
+                },
+                "LeftMargin": 161.4612,
+                "RightMargin": 535.5388,
+                "TopMargin": 237.0335,
+                "BottomMargin": 49.9665,
+                "Tag": 11,
+                "Children": [
+                  {
+                    "LabelText": "60",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "goBang.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 20.4861,
+                      "Y": 22.3053
+                    },
+                    "Scale": {
+                      "ScaleX": 0.4,
+                      "ScaleY": 0.4
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5186,
+                      "Y": 0.5341
+                    },
+                    "PreSize": {
+                      "X": 1.1132,
+                      "Y": 0.6038
+                    },
+                    "LeftMargin": -2.0139,
+                    "RightMargin": -3.9861,
+                    "TopMargin": 8.6947,
+                    "BottomMargin": 12.3053,
+                    "Tag": 106,
+                    "ActionTag": 1528813678,
+                    "Size": {
+                      "X": 59.0,
+                      "Y": 32.0
+                    },
+                    "Name": "cutDownLabel",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -174223323,
+                "Size": {
+                  "X": 53.0,
+                  "Y": 53.0
+                },
+                "Name": "myType",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chess_5.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 520.6842,
+                  "Y": 128.8948
+                },
+                "Scale": {
+                  "ScaleX": 1.7,
+                  "ScaleY": 1.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7489,
+                  "Y": 0.2173
+                },
+                "PreSize": {
+                  "X": 0.0707,
+                  "Y": 0.1559
+                },
+                "LeftMargin": 535.1842,
+                "RightMargin": 161.8158,
+                "TopMargin": 239.6052,
+                "BottomMargin": 47.3948,
+                "Tag": 70,
+                "Children": [
+                  {
+                    "LabelText": "60",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "goBang.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 20.2347,
+                      "Y": 22.8688
+                    },
+                    "Scale": {
+                      "ScaleX": 0.4,
+                      "ScaleY": 0.4
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5327,
+                      "Y": 0.5258
+                    },
+                    "PreSize": {
+                      "X": 1.1132,
+                      "Y": 0.6038
+                    },
+                    "LeftMargin": -1.2653,
+                    "RightMargin": -4.7347,
+                    "TopMargin": 9.1312,
+                    "BottomMargin": 11.8688,
+                    "Tag": 107,
+                    "ActionTag": -410083369,
+                    "Size": {
+                      "X": 59.0,
+                      "Y": 32.0
+                    },
+                    "Name": "cutDownLabel",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1951631236,
+                "Size": {
+                  "X": 53.0,
+                  "Y": 53.0
+                },
+                "Name": "opType",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1632129399,
+            "Size": {
+              "X": 750.0,
+              "Y": 340.0
+            },
+            "Name": "upBG",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "吴晓峰啊啊啊",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 100.2385,
+              "Y": 1296.468
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1337,
+              "Y": 0.9704
+            },
+            "PreSize": {
+              "X": 0.192,
+              "Y": 0.021
+            },
+            "LeftMargin": 28.2385,
+            "RightMargin": 577.7615,
+            "TopMargin": 25.532,
+            "BottomMargin": 1282.468,
+            "Tag": 842,
+            "ActionTag": 603481352,
+            "Size": {
+              "X": 144.0,
+              "Y": 28.0
+            },
+            "Name": "myName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "吴晓峰吴晓峰",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 643.445,
+              "Y": 1299.213
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8579,
+              "Y": 0.9725
+            },
+            "PreSize": {
+              "X": 0.192,
+              "Y": 0.021
+            },
+            "LeftMargin": 571.445,
+            "RightMargin": 34.555,
+            "TopMargin": 22.787,
+            "BottomMargin": 1285.213,
+            "Tag": 843,
+            "ActionTag": -1766319609,
+            "Size": {
+              "X": 144.0,
+              "Y": 28.0
+            },
+            "Name": "opName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "head_k.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.3054,
+              "Y": 1212.8838
+            },
+            "Scale": {
+              "ScaleX": 0.85,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1311,
+              "Y": 0.8802
+            },
+            "PreSize": {
+              "X": 0.2093,
+              "Y": 0.1175
+            },
+            "LeftMargin": 19.8054,
+            "RightMargin": 573.1946,
+            "TopMargin": 81.6162,
+            "BottomMargin": 1097.3838,
+            "Tag": 81,
+            "ActionTag": -356915204,
+            "Size": {
+              "X": 157.0,
+              "Y": 157.0
+            },
+            "Name": "myHead",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "head_k.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 644.3453,
+              "Y": 1212.3583
+            },
+            "Scale": {
+              "ScaleX": 0.85,
+              "ScaleY": 0.85
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8725,
+              "Y": 0.8805
+            },
+            "PreSize": {
+              "X": 0.2093,
+              "Y": 0.1175
+            },
+            "LeftMargin": 575.8453,
+            "RightMargin": 17.1547,
+            "TopMargin": 81.1417,
+            "BottomMargin": 1097.8583,
+            "Tag": 82,
+            "ActionTag": -1589334866,
+            "Size": {
+              "X": 157.0,
+              "Y": 157.0
+            },
+            "Name": "opHead",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "backdrop_8.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 1336.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0314
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "BottomMargin": 1294.0,
+            "Tag": 208,
+            "ActionTag": 515887468,
+            "Size": {
+              "X": 750.0,
+              "Y": 42.0
+            },
+            "Name": "backdrop_8_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1336.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "chess_5.png",
+        "chess_6.png",
+        "goBang.fnt",
+        "goBang.png",
+        "res/goBang.plist",
+        "res/goBang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

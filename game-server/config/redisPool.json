@@ -1,0 +1,30 @@
+{
+  "development":{
+    "host": "10.10.1.236",
+    "port": 19000,
+    "max_clients": 5,
+    "perform_checks": false,
+    "database": 0
+  },
+  "staging":{
+    "host": "10.10.1.236",
+    "port": 19000,
+    "max_clients": 5,
+    "perform_checks": false,
+    "database": 0
+  },
+  "production":{
+    "host": "10.10.1.6",
+    "port": 19000,
+    "max_clients": 5,
+    "perform_checks": false,
+    "database": 0
+  },
+  "oversea": {
+    "host": "game-lb",
+    "port": 19000,
+    "max_clients": 5,
+    "perform_checks": false,
+    "database": 0
+  }
+}

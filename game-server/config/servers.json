@@ -1,0 +1,51 @@
+{
+  "development": {
+    "connector": [
+      {
+        "id": "connector-server-1",
+        "host": "192.168.6.89",
+        "port": 4050,
+        "clientPort": 3050,
+        "frontend": true,
+        "args": " --inspect=32311"
+      }
+    ],
+    "chat": [
+      {
+        "id": "chat-server-1",
+        "host": "192.168.6.89",
+        "port": 6050,
+        "args": " --inspect=32314"
+      }
+    ],
+    "game": [
+      {
+        "id": "game-server-1",
+        "host": "192.168.6.89",
+        "port": 6051,
+        "args": " --inspect=32315"
+      },
+      {
+        "id": "game-server-2",
+        "host": "192.168.6.89",
+        "port": 6052,
+        "args": " --inspect=32316"
+      }
+    ],
+    "gate": [
+      {
+        "id": "gate-server-1",
+        "host": "192.168.6.89",
+        "clientPort": 3014,
+        "frontend": true,
+        "args": " --inspect=32317"
+      }
+    ]
+  },
+  "production": {
+  },
+  "staging": {
+  },
+  "oversea": {
+  }
+}

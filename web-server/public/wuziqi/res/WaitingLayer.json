@@ -1,0 +1,501 @@
+{
+  "ID": "3f49a2f7-c794-477a-8b74-577f056a9f92",
+  "Version": "2.3.4",
+  "Name": "WaitingLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 85,
+        "Speed": 1.0,
+        "ActivedAnimationName": "waiting",
+        "Timelines": [
+          {
+            "ActionTag": 1288546835,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 360.9102,
+                "Y": 693.5977,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 360.9102,
+                "Y": 693.5977,
+                "FrameIndex": 84,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -663.811,
+                "Y": 820.0108,
+                "FrameIndex": 85,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1395807622,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 357.5428,
+                "Y": 741.1702,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 357.5428,
+                "Y": 741.1702,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 357.5428,
+                "Y": 741.1702,
+                "FrameIndex": 84,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -592.4785,
+                "Y": 398.3195,
+                "FrameIndex": 85,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1395807622,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1395807622,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 9,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 45.0,
+                "Y": 45.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 45.0,
+                "Y": 45.0,
+                "FrameIndex": 19,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 90.0,
+                "Y": 90.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 90.0,
+                "Y": 90.0,
+                "FrameIndex": 29,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 135.0,
+                "Y": 135.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 135.0,
+                "Y": 135.0,
+                "FrameIndex": 39,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 180.0,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 180.0,
+                "FrameIndex": 49,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 225.0,
+                "Y": 225.0,
+                "FrameIndex": 50,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 225.0,
+                "Y": 225.0,
+                "FrameIndex": 59,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 270.0,
+                "Y": 270.0,
+                "FrameIndex": 60,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 270.0,
+                "Y": 270.0,
+                "FrameIndex": 69,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 315.0,
+                "Y": 315.0,
+                "FrameIndex": 70,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 315.0,
+                "Y": 315.0,
+                "FrameIndex": 79,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.0,
+                "Y": 360.0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1645887967,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 383.2614,
+                "Y": 581.8503,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 383.2614,
+                "Y": 581.8503,
+                "FrameIndex": 84,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1607.1805,
+                "Y": 698.6869,
+                "FrameIndex": 85,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 80,
+          "Name": "waiting",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 85,
+          "EndIndex": 90,
+          "Name": "removeWaiting",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 153,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "word_11.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.9102,
+              "Y": 693.5977
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4812,
+              "Y": 0.5199
+            },
+            "PreSize": {
+              "X": 0.5053,
+              "Y": 0.1372
+            },
+            "LeftMargin": 171.4102,
+            "RightMargin": 199.5898,
+            "TopMargin": 548.9023,
+            "BottomMargin": 602.0977,
+            "Tag": 154,
+            "ActionTag": 1288546835,
+            "Size": {
+              "X": 379.0,
+              "Y": 183.0
+            },
+            "Name": "word_11_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "word_12.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 357.5428,
+              "Y": 741.1702
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4767,
+              "Y": 0.5556
+            },
+            "PreSize": {
+              "X": 0.0867,
+              "Y": 0.0487
+            },
+            "LeftMargin": 325.0428,
+            "RightMargin": 359.9572,
+            "TopMargin": 560.3298,
+            "BottomMargin": 708.6702,
+            "Tag": 209,
+            "ActionTag": 1395807622,
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "Name": "word_12_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "t.png",
+              "Plist": "res/goBang.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "t.png",
+              "Plist": "res/goBang.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "t.png",
+              "Plist": "res/goBang.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 72,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 383.2614,
+              "Y": 581.8503
+            },
+            "Scale": {
+              "ScaleX": 20.8933,
+              "ScaleY": 9.2278
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.511,
+              "Y": 0.4362
+            },
+            "PreSize": {
+              "X": 0.06,
+              "Y": 0.0705
+            },
+            "LeftMargin": 360.7614,
+            "RightMargin": 344.2386,
+            "TopMargin": 705.1497,
+            "BottomMargin": 534.8503,
+            "Tag": 212,
+            "ActionTag": -1645887967,
+            "Size": {
+              "X": 45.0,
+              "Y": 94.0
+            },
+            "Alpha": 0,
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "res/goBang.plist",
+        "res/goBang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

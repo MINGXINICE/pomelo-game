@@ -1,0 +1,13 @@
+{
+  "name": "kuaiya-game",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "crc": "0.2.0",
+    "pomelo": "2.2.x",
+    "pomelo-scheduler": "0.5.0",
+    "pomelo-zookeeper-plugin": "^0.1.0",
+    "redis": "latest",
+    "redis-connection-pool": "^1.6.1"
+  }
+}

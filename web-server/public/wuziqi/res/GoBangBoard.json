@@ -1,0 +1,77 @@
+{
+  "ID": "685082c8-febf-4776-b139-700a53915d0d",
+  "Version": "2.3.4",
+  "Name": "GoBangBoard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 296,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "backdrop_5.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0003,
+              "Y": 260.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.1954
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.5629
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": 0.0003,
+            "RightMargin": -0.0003,
+            "TopMargin": 323.0004,
+            "BottomMargin": 260.9996,
+            "Tag": 297,
+            "ActionTag": 590799400,
+            "Size": {
+              "X": 750.0,
+              "Y": 752.0
+            },
+            "Name": "backGround",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1336.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "res/goBang.plist",
+        "res/goBang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

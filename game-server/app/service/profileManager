@@ -1,0 +1,62 @@
+
+var Profile = require('../domain/profile');
+
+var ProfileManager = function(app) {
+    this.app = app;
+    this.profiles = {}
+};
+
+ProfileManager.prototype.add = function (opts) {
+    if (!opts) {
+        return;
+    }
+    var profile = new Profile(opts);
+    if (!this.profiles[profile.username]) {
+        profile.ref = 1;
+        this.profiles[profile.username] = profile;
+    } else {
+        this.profiles[profile.username].ref++;
+    }
+};
+
+ProfileManager.prototype.remove = function (uid) {
+    if (!uid) {
+        return;
+    }
+    uid = uid.split("*")[0];
+    if (!!this.profiles[uid]) {
+        this.profiles[uid].ref--;
+        if (this.profiles[uid].ref == 0) {
+            delete this.profiles[uid];
+        }
+    }
+};
+
+ProfileManager.prototype.get = function (uid) {
+    if (!uid) {
+        return null;
+    }
+    uid = uid.split("*")[0];
+    return this.profiles[uid];
+};
+
+ProfileManager.prototype.getProfileMessage = function (uid) {
+    var message = {
+        "opPlayer": {
+            'progress': 100,
+            'skin': 1000
+        }
+    };
+    if (!!uid) {
+        uid = uid.split("*")[0];
+        message['opPlayer']['userId'] = uid;
+        var profile = this.profiles[uid];
+        if (!!profile) {
+            message['opPlayer']['nickname'] = profile.nickname;
+            message['opPlayer']['iconUrl'] = profile.iconUrl;
+        }
+    }
+    return message;
+};
+
+module.exports = ProfileManager;

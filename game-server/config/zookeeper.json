@@ -1,0 +1,22 @@
+{
+  "staging": {
+    "zookeeper": {
+      "server": "10.10.1.236:2181",
+      "path": "/pomelo"
+    }
+  },
+  "production": {
+    "zookeeper": {
+      "server": "10.10.1.6:2181,10.10.1.7:2181,10.10.1.8:2181",
+      "path": "/pomelo"
+    }
+  },
+  "oversea": {
+    "zookeeper": {
+      "server": "game-lb:2181",
+      "path": "/pomelo"
+    }
+  },
+  "development": {
+  }
+}

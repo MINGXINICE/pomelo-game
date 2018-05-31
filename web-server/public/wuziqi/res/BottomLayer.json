@@ -1,0 +1,843 @@
+{
+  "ID": "57fa1522-cb28-4248-8b45-c8915ec9a848",
+  "Version": "2.3.4",
+  "Name": "BottomLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 348,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "backdrop_2.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 375.0,
+              "Y": -10.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": -0.0075
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2099
+            },
+            "HorizontalEdge": "BothEdge",
+            "TopMargin": 1064.0,
+            "BottomMargin": -10.0,
+            "Tag": 349,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_6.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.575,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1341,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1093,
+                  "Y": 0.2929
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 59.575,
+                "RightMargin": 608.425,
+                "TopMargin": 59.0,
+                "BottomMargin": 139.0,
+                "Tag": 350,
+                "ActionTag": -1542898199,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "backdrop_6_17_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_6.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 324.675,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4329,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1093,
+                  "Y": 0.2929
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 283.675,
+                "RightMargin": 384.325,
+                "TopMargin": 59.0,
+                "BottomMargin": 139.0,
+                "Tag": 351,
+                "ActionTag": -1674577197,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "backdrop_6_17_0_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_6.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 213.45,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2846,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1093,
+                  "Y": 0.2929
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 172.45,
+                "RightMargin": 495.55,
+                "TopMargin": 59.0,
+                "BottomMargin": 139.0,
+                "Tag": 352,
+                "ActionTag": 1905597860,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "backdrop_6_17_0_0_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_6.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 430.65,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5742,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1093,
+                  "Y": 0.2929
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 389.65,
+                "RightMargin": 278.35,
+                "TopMargin": 59.0,
+                "BottomMargin": 139.0,
+                "Tag": 353,
+                "ActionTag": -28983101,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "backdrop_6_17_0_1_9",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_6.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 543.15,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7242,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1093,
+                  "Y": 0.2929
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 502.15,
+                "RightMargin": 165.85,
+                "TopMargin": 59.0,
+                "BottomMargin": 139.0,
+                "Tag": 354,
+                "ActionTag": 1985958326,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "backdrop_6_17_0_1_0_11",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "backdrop_6.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 655.725,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8743,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1093,
+                  "Y": 0.2929
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 614.725,
+                "RightMargin": 53.275,
+                "TopMargin": 59.0,
+                "BottomMargin": 139.0,
+                "Tag": 355,
+                "ActionTag": 1348202591,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "backdrop_6_17_0_1_1_13",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_6_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_6_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_6_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 45,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.25,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.135,
+                  "Y": 0.6357
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.2679
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 63.75,
+                "RightMargin": 611.25,
+                "TopMargin": 64.5,
+                "BottomMargin": 140.5,
+                "Tag": 6,
+                "ActionTag": 1790071574,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "emoji6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_2_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_2_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_2_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 45,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 544.8,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7264,
+                  "Y": 0.6357
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.2679
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 507.3,
+                "RightMargin": 167.7,
+                "TopMargin": 64.5,
+                "BottomMargin": 140.5,
+                "Tag": 2,
+                "ActionTag": 1175668667,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "emoji2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_1_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_1_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_1_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 45,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 656.25,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.875,
+                  "Y": 0.6357
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.2679
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 618.75,
+                "RightMargin": 56.25,
+                "TopMargin": 64.5,
+                "BottomMargin": 140.5,
+                "Tag": 1,
+                "ActionTag": -901479922,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "emoji1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_3_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_3_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_3_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 45,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 431.25,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.575,
+                  "Y": 0.6357
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.2679
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 393.75,
+                "RightMargin": 281.25,
+                "TopMargin": 64.5,
+                "BottomMargin": 140.5,
+                "Tag": 3,
+                "ActionTag": -1434564252,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "emoji3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_4_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_4_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_4_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 45,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 326.25,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.435,
+                  "Y": 0.6357
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.2679
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 288.75,
+                "RightMargin": 386.25,
+                "TopMargin": 64.5,
+                "BottomMargin": 140.5,
+                "Tag": 4,
+                "ActionTag": -1454252827,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "emoji4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_5_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_5_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "emoji/b_5_1.png",
+                  "Plist": "res/goBang.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 45,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 213.75,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.285,
+                  "Y": 0.6357
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.2679
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 176.25,
+                "RightMargin": 498.75,
+                "TopMargin": 64.5,
+                "BottomMargin": 140.5,
+                "Tag": 5,
+                "ActionTag": -892258249,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "emoji5",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1171329201,
+            "Size": {
+              "X": 750.0,
+              "Y": 280.0
+            },
+            "Name": "bottomBG",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "backdrop_7.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.078
+            },
+            "TopMargin": 1230.0,
+            "Tag": 192,
+            "ActionTag": -1740426138,
+            "Size": {
+              "X": 750.0,
+              "Y": 104.0
+            },
+            "Name": "backdrop_7_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "res/goBang.plist",
+        "res/goBang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

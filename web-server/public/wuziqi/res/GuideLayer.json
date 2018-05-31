@@ -1,0 +1,412 @@
+{
+  "ID": "f9180d29-d4b5-4c0f-aaa4-961599e68ee8",
+  "Version": "2.3.4",
+  "Name": "GuideLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 75,
+        "Speed": 1.0,
+        "ActivedAnimationName": "hide",
+        "Timelines": [
+          {
+            "ActionTag": -1268767238,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 375.0,
+                "Y": 623.0989,
+                "FrameIndex": 65,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 375.0,
+                "Y": 2190.2566,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1268767238,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 22.5187,
+                "Y": 45.1123,
+                "FrameIndex": 60,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1580601996,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 0.001,
+                "FrameIndex": 19,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1580601996,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 375.0,
+                "Y": 707.02,
+                "FrameIndex": 65,
+                "Tween": false,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -750.0,
+                "Y": 200.1,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 343586205,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 0.001,
+                "FrameIndex": 23,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 24,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 65,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 0.001,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 343586205,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 375.0,
+                "Y": 506.8495,
+                "FrameIndex": 74,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -300.0,
+                "Y": 506.8495,
+                "FrameIndex": 75,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 50,
+          "Name": "show",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 60,
+          "EndIndex": 400,
+          "Name": "hide",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 412,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 375.0,
+              "Y": 2190.2566
+            },
+            "Scale": {
+              "ScaleX": 22.5187,
+              "ScaleY": 45.1123
+            },
+            "CColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.6419
+            },
+            "PreSize": {
+              "X": 0.0613,
+              "Y": 0.027
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": 352.0,
+            "RightMargin": 352.0,
+            "TopMargin": -874.2566,
+            "BottomMargin": 2172.2566,
+            "Tag": 1355,
+            "ActionTag": -1268767238,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Alpha": 170,
+            "Name": "Button_17",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tips.png",
+              "Plist": "res/goBang.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -750.0,
+              "Y": 200.1
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -1.0,
+              "Y": 0.15
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0442
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": -1125.0,
+            "RightMargin": 1125.0,
+            "TopMargin": 1104.4,
+            "BottomMargin": 170.6,
+            "Tag": 787,
+            "ActionTag": 1580601996,
+            "Size": {
+              "X": 750.0,
+              "Y": 59.0
+            },
+            "Name": "tips_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "button_tips.png",
+              "Plist": "res/goBang.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "button_tips.png",
+              "Plist": "res/goBang.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "button_tips.png",
+              "Plist": "res/goBang.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 280,
+            "Scale9Height": 27,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -300.0,
+              "Y": 506.8495
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.001
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.4,
+              "Y": 0.3799
+            },
+            "PreSize": {
+              "X": 0.4133,
+              "Y": 0.0367
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": -455.0,
+            "RightMargin": 895.0,
+            "TopMargin": 802.6505,
+            "BottomMargin": 482.3495,
+            "Tag": 791,
+            "ActionTag": 343586205,
+            "Size": {
+              "X": 310.0,
+              "Y": 49.0
+            },
+            "Name": "buttonTips",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "res/goBang.plist",
+        "res/goBang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

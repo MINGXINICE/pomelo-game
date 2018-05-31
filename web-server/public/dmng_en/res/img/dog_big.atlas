@@ -1,0 +1,195 @@
+
+dog_big.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 294
+  size: 281, 210
+  orig: 281, 210
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 844, 134
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 781, 2
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 615, 161
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 615, 118
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 615, 250
+  size: 227, 64
+  orig: 227, 64
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: true
+  xy: 957, 260
+  size: 244, 59
+  orig: 244, 59
+  offset: 0, 0
+  index: -1
+eye_5
+  rotate: false
+  xy: 2, 8
+  size: 227, 44
+  orig: 227, 44
+  offset: 0, 0
+  index: -1
+eye_6
+  rotate: false
+  xy: 615, 204
+  size: 227, 44
+  orig: 227, 44
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 54
+  size: 129, 238
+  orig: 129, 238
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 133, 54
+  size: 129, 238
+  orig: 129, 238
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 615, 25
+  size: 164, 91
+  orig: 164, 91
+  offset: 0, 0
+  index: -1
+mouse_1
+  rotate: false
+  xy: 606, 411
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+mouse_2
+  rotate: false
+  xy: 264, 29
+  size: 254, 69
+  orig: 254, 69
+  offset: 0, 0
+  index: -1
+mouse_3
+  rotate: false
+  xy: 285, 290
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+mouse_4
+  rotate: false
+  xy: 264, 195
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+mouse_bg
+  rotate: false
+  xy: 264, 100
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+mouse_bg2
+  rotate: false
+  xy: 606, 316
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+mouse_bg3
+  rotate: true
+  xy: 862, 250
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+mouse_bg4
+  rotate: true
+  xy: 520, 34
+  size: 254, 93
+  orig: 254, 93
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 566, 337
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 541, 294
+  size: 89, 23
+  orig: 89, 23
+  offset: 0, 0
+  index: -1
+she
+  rotate: false
+  xy: 883, 29
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 934, 67
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 285, 385
+  size: 319, 119
+  orig: 319, 119
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 946, 122
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+yin
+  rotate: false
+  xy: 957, 193
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1

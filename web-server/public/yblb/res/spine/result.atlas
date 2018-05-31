@@ -1,0 +1,33 @@
+
+result.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose
+  rotate: false
+  xy: 2, 2
+  size: 421, 621
+  orig: 421, 621
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 425, 2
+  size: 421, 621
+  orig: 421, 621
+  offset: 0, 0
+  index: -1
+
+result2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 478, 527
+  orig: 478, 527
+  offset: 0, 0
+  index: -1
